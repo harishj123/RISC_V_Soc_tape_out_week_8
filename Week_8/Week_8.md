@@ -156,6 +156,31 @@ Generated graphs are stored in:
 /graphs/ff/
 ```
 
+**Post Synthesis**
+
+![image alt](https://github.com/harishj123/RISC_V_Soc_tape_out_week_8/blob/main/Week_8/post%20synthesis.png?raw=true)
+
+**Post CTS**
+
+![image alt](https://github.com/harishj123/RISC_V_Soc_tape_out_week_8/blob/main/Week_8/Post-CTS.png?raw=true)
+
+**Post-Placement(Pre-CTS)**
+
+![image alt](https://github.com/harishj123/RISC_V_Soc_tape_out_week_8/blob/main/Week_8/Post-Placement%20(Pre-CTS).png?raw=true)
+
+**Post-Routing**
+
+![image alt](https://github.com/harishj123/RISC_V_Soc_tape_out_week_8/blob/main/Week_8/Post-Routing.png?raw=true)
+
+![image alt](https://github.com/harishj123/RISC_V_Soc_tape_out_week_8/blob/main/Week_8/TNS.png?raw=true)
+
+![image alt](https://github.com/harishj123/RISC_V_Soc_tape_out_week_8/blob/main/Week_8/WNS.png?raw=true)
+
+![image alt](https://github.com/harishj123/RISC_V_Soc_tape_out_week_8/blob/main/Week_8/worst%20hold%20slack.png?raw=true)
+
+![image alt](https://github.com/harishj123/RISC_V_Soc_tape_out_week_8/blob/main/Week_8/worst%20setup%20slack.png?raw=true)
+
+
 ---
 
 # 🔍 **6. Key Observations — Post-Layout Timing Insights**
