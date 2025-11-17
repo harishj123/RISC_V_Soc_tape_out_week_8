@@ -174,13 +174,6 @@ Generated graphs are stored in:
 
 ![image alt](https://github.com/harishj123/RISC_V_Soc_tape_out_week_8/blob/main/Week_8/TNS.png?raw=true)
 
-![image alt](https://github.com/harishj123/RISC_V_Soc_tape_out_week_8/blob/main/Week_8/WNS.png?raw=true)
-
-![image alt](https://github.com/harishj123/RISC_V_Soc_tape_out_week_8/blob/main/Week_8/worst%20hold%20slack.png?raw=true)
-
-![image alt](https://github.com/harishj123/RISC_V_Soc_tape_out_week_8/blob/main/Week_8/worst%20setup%20slack.png?raw=true)
-
-
 ---
 
 # 🔍 **6. Key Observations — Post-Layout Timing Insights**
@@ -189,13 +182,20 @@ Generated graphs are stored in:
 
 Because real RC parasitics slow down signals.
 
+![image alt](https://github.com/harishj123/RISC_V_Soc_tape_out_week_8/blob/main/Week_8/WNS.png?raw=true)
+
 ### ⚡ **2. Hold slack becomes critical in FF**
 
 Fast devices → early arrival → potential hold violations.
 
+![image alt](https://github.com/harishj123/RISC_V_Soc_tape_out_week_8/blob/main/Week_8/worst%20hold%20slack.png?raw=true)
+
 ### 🐢 **3. Setup timing worst at SS**
 
 Slow devices + low voltage + high temperature.
+
+![image alt](https://github.com/harishj123/RISC_V_Soc_tape_out_week_8/blob/main/Week_8/worst%20setup%20slack.png?raw=true)
+
 
 ### 🔌 **4. Parasitics impact**
 
